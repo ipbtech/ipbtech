@@ -1,5 +1,5 @@
-<h1 align="right">Hello everyone 👋, I'm Ilya Petrov</h1>
-<h3 align="center">I'm C# developer from St.Petersburg, Russia.</h3>
+<h1 align="left">Hi there 👋, I'm Ilya Petrov</h1>
+<h3 align="left">I'm beginner C# developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipbtech&label=Profile%20views&color=0e75b6&style=flat" alt="ipbtech" /> </p>
 
