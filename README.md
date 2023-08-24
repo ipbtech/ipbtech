@@ -1,19 +1,19 @@
 <h1 align="left">Hi there 👋, I'm Ilya Petrov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipbtech&label=Profile%20views&color=0e75b6&style=flat" alt="ipbtech" /> </p>
 
-<h3 align="left">About me:</h3>
+<h2 align="left">About me:</h2>
 
 💡 I'm BIM coordinator and beginner C# developer from St.Petersburg, Russia
 
 💡 In the current time I'm learning **desktop and web development on the .NET platform** and also interested in other technologies.
 
-<h3 align="left">Contact with me:</h3>
+<h2 align="left">Contact with me:</h2>
 
 ⚪ **Email:** @ipb_tech
 
 ⚪ **Telegram:** @ipb_tech
 
-<h3 align="left">Usage technologies and stats:</h3>
+<h2 align="left">Usage technologies and stats:</h2>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ipbtech&show_icons=true&theme=dark#gh-dark-mode-only" /> </p>
 
