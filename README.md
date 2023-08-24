@@ -9,7 +9,7 @@
 
 <h2 align="left">Contact with me:</h2>
 
-⚪ **Email:** @ipb_tech
+⚪ **Email:** me@ipbtech.ru
 
 ⚪ **Telegram:** @ipb_tech
 
@@ -29,13 +29,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h2 align="left">My stats:</h2>
+<img align="right" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="500">
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ipbtech&show_icons=true&theme=dark#gh-dark-mode-only" /> </p>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<h2 align="left">My stats:</h2>
 
-<br><br><br><br>
-<p align="center"> <img align="center" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-code-in-c-5.png" /></p>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="center" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-code-in-c-5.png" />
 
 
 
