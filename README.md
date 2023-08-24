@@ -31,10 +31,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h2 align="left">My stats:</h2>
-<img align="right" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
-<img src="/github-metrics.svg" alt="Metrics" width="400">
-
-
-
-<br><br><br>
-<p align="center"><img align="center" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-code-in-c-5.png" /></p>
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="500">
+<p align="right"><img align="right" width="300" height="340" src="https://sd.keepcalms.com/i/keep-calm-and-code-in-c-5.png" /></p>
