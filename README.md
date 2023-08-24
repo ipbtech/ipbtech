@@ -7,6 +7,8 @@
 
 💡 In the current time I'm learning **desktop and web development on the .NET platform** and also interested in other technologies.
 
+💡 Creating plugins for BIM software
+
 <h2 align="left">Contact with me:</h2>
 
 ⚪ **Email:** me@ipbtech.ru
@@ -30,14 +32,9 @@
 
 <h2 align="left">My stats:</h2>
 <img align="right" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="500">
-<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
-
-
-<h2 align="left">My stats:</h2>
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<img align="center" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-code-in-c-5.png" />
+<img src="/github-metrics.svg" alt="Metrics" width="400">
 
 
 
-
+<br><br><br>
+<p align="center"><img align="center" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-code-in-c-5.png" /></p>
