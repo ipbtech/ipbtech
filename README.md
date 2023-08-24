@@ -32,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ipbtech&show_icons=true&theme=dark#gh-dark-mode-only" /> </p>
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 <br><br><br><br>
 <p align="center"> <img align="center" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-code-in-c-5.png" /></p>
 
