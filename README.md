@@ -3,17 +3,13 @@
 
 <h2 align="left">About me:</h2>
 
-💡 I'm BIM coordinator and beginner C# developer from St.Petersburg, Russia
-
-💡 In the current time I'm learning **desktop and web development on the .NET platform** and also interested in other technologies.
-
-💡 Creating plugins for BIM software
+💡 I'm a C# developer from St.Petersburg, Russia
 
 <h2 align="left">Contact with me:</h2>
 
-⚪ **Email:** me@ipbtech.ru
+⚪ **Email:** ipb.tech@yandex.ru
 
-⚪ **Telegram:** @ipb_tech
+⚪ **Telegram:** @threads777
 
 <h2 align="left">Languages and tools:</h2>
 
